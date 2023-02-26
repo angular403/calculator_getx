@@ -1,16 +1,38 @@
-# calculator_getx
+# Aplikasi Kalkulator
+Aplikasi Kalkulator ini merupakan Aplikasi Perhitungan yang terdiri dari penjumlahan, pengurangan, perkalian, dan pembagian.
 
-A new Flutter project.
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-## Getting Started
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features Aplikasi Kalkulator 
+- Penjumlahan
+- Pengurangan
+- Perkalian
+- Pembagian
+- ✨Magic ✨
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Tech
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplikasi ini dibuat dengan menggunakan:
+
+- [Flutter] - adalah sebuah framework untuk membangun antarmuka pengguna (UI) aplikasi untuk beberapa platform dengan codebase tunggal.
+- [Visual Studio Code] - Visual Studio Code adalah aplikasi code editor yang dapat mendukung banyak bahasa pemrogaman.
+
+
+## Installation
+
+
+Install the dependencies and devDependencies and start the server.
+
+```sh
+flutter create aplikasi_kalkulator_getx
+```
+
+For production environments...
+
+```sh
+D:\Users\USER\AndroidStudioProjects
+```
